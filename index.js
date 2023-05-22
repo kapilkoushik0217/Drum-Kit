@@ -45,8 +45,8 @@ case "i":{
     break;
 }
 case "a":{
-    var tom1=new Audio("./sounds/crash.mp3");
-    tom1.play();
+    var crash=new Audio("./sounds/crash.mp3");
+    crash.play();
     break;
 }
     }
